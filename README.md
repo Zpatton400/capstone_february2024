@@ -85,10 +85,12 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+### Overview
 The Cherry Blossom Digital Photo Repository is a full-stack web application designed to provide a digital sanctuary for cherry blossom photos. Built using the MERN stack (MongoDB, Express, React, and Node.js), this application allows users to explore, upload, and manage cherry blossom photos with a focus on meticulous engineering and user-friendly design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### About The Project:  Cherry Blossom Digital Photo Repository
 
 
 ### Built With
