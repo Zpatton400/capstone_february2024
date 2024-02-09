@@ -114,7 +114,7 @@ The code adheres to best practices in software development, including:
 --Comments: An appropriate level of comments is provided to explain the purpose and functionality of the code, making it easier for others to understand and maintain.
 
 ### Deployment
-As a personal stretch goal, the application has been deployed to a public URL, making it accessible to users around the world. The deployment process involved setting up a production-ready environment, configuring the server, and ensuring that the application is secure and performant.
+As a personal stretch goal, the application is intended to be deployed via public URL, making it accessible to users around the world. The deployment process involved setting up a production-ready environment, configuring the server, and ensuring that the application is secure and performant.
 
 ### Conclusion
 The Cherry Blossom Digital Photo Repository is a testament to the power of the MERN stack and the importance of following best practices in software development. It demonstrates the ability to create a complex, user-friendly, and valuable application that meets the technical requirements and provides a personal touch to the end-user experience. The project is a reflection of the knowledge and skills acquired throughout the course and serves as a solid foundation for future development projects.
