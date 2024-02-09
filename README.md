@@ -90,8 +90,34 @@ The Cherry Blossom Digital Photo Repository is a full-stack web application desi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### About The Project:  Cherry Blossom Digital Photo Repository
+### Technical Requirements
+The project was developed to meet the following technical requirements:
 
+--Full-Stack Architecture: The application is built using the MERN stack, ensuring a robust and scalable solution.
+--CRUD Operations: The back-end API supports full CRUD (Create, Read, Update, Delete) operations for managing photo records.
+--VRA Core 4.0 Metadata Schema: The application integrates VRA Core 4.0 for metadata schema, providing rich and detailed information about each photo.
+--Library of Congress Authorities: The application uses Library of Congress Authorities to create records in MARC format, ensuring compatibility with standard library systems.
+--Front-End Development: The front-end is developed using React, with Bootstrap CSS for styling and React hooks for state management.
+--User Authentication: The application includes a form of user authentication/authorization, ensuring that only authorized users can manage the photo records.
+
+### Complexity and Creativity
+Given the class content, the project is reasonably complex, incorporating advanced concepts such as RESTful APIs, database integration, and front-end development with React. A personal touch has been added through the cherry blossom theme, which is reflected in the Bootstrap CSS styling and the overall design of the application.
+
+### Value to the End-User
+The Cherry Blossom Digital Photo Repository offers value to the end-user by providing a platform to explore and manage cherry blossom photos. It goes beyond a simple login button and index page by offering a rich user experience with photo galleries, detailed metadata, and user-friendly interfaces.
+
+### Code Style and Best Practices
+The code adheres to best practices in software development, including:
+
+--Code Style: Consistent code style is maintained throughout the project, following the guidelines of the MERN stack and JavaScript ES6 syntax.
+--Best Practices: The application uses best practices such as modular code organization, error handling, and secure coding practices.
+--Comments: An appropriate level of comments is provided to explain the purpose and functionality of the code, making it easier for others to understand and maintain.
+
+### Deployment
+As a personal stretch goal, the application has been deployed to a public URL, making it accessible to users around the world. The deployment process involved setting up a production-ready environment, configuring the server, and ensuring that the application is secure and performant.
+
+### Conclusion
+The Cherry Blossom Digital Photo Repository is a testament to the power of the MERN stack and the importance of following best practices in software development. It demonstrates the ability to create a complex, user-friendly, and valuable application that meets the technical requirements and provides a personal touch to the end-user experience. The project is a reflection of the knowledge and skills acquired throughout the course and serves as a solid foundation for future development projects.
 
 ### Built With
 
