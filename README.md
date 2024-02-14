@@ -59,7 +59,14 @@
     <li>
       <a href="##About-The-Project-Cherry-Blossom-Digital-Photo-Repository">About The Project:  Cherry Blossom Digital Photo Repository</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+         <li><a href="###Overview">Overview</a></li>
+        <li><a href="###Technical Requirements">Technical Requirements</a></li>
+        <li><a href="##bComplexity-and-Creativity">Complexity and Creativity</a></li>
+        <li><a href="###Value-to-the-End-User">Value to the End-User</a></li>
+        <li><a href="###Code-Style-and-Best-Practices">Built With</a></li>
+        <li><a href="###Deployment">Deployment</a></li>
+        <li><a href="###built-with">Built With</a></li>
+        <li><a href="###Conclusion">Built With</a></li>
       </ul>
     </li>
     <li>
