@@ -61,7 +61,7 @@
       <ul>
          <li><a href="###Overview">Overview</a></li>
         <li><a href="###Technical Requirements">Technical Requirements</a></li>
-        <li><a href="##bComplexity-and-Creativity">Complexity and Creativity</a></li>
+        <li><a href="###Complexity-and-Creativity">Complexity and Creativity</a></li>
         <li><a href="###Value-to-the-End-User">Value to the End-User</a></li>
         <li><a href="###Code-Style-and-Best-Practices">Code Style and Best Practices</a></li>
         <li><a href="###Deployment">Deployment</a></li>
