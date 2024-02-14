@@ -63,10 +63,10 @@
         <li><a href="###Technical Requirements">Technical Requirements</a></li>
         <li><a href="##bComplexity-and-Creativity">Complexity and Creativity</a></li>
         <li><a href="###Value-to-the-End-User">Value to the End-User</a></li>
-        <li><a href="###Code-Style-and-Best-Practices">Built With</a></li>
+        <li><a href="###Code-Style-and-Best-Practices">Code Style and Best Practices</a></li>
         <li><a href="###Deployment">Deployment</a></li>
         <li><a href="###built-with">Built With</a></li>
-        <li><a href="###Conclusion">Built With</a></li>
+        <li><a href="###Conclusion">Conclusion</a></li>
       </ul>
     </li>
     <li>
