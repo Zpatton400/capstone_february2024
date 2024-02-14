@@ -57,7 +57,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="##About-The-Project-Cherry-Blossom-Digital-Photo-Repository">About The Project:  Cherry Blossom Digital Photo Repository</a>
+      <a href="#about-the-project--cherry-blossom-digital-photo-repository">About The Project:  Cherry Blossom Digital Photo Repository</a>
       <ul>
          <li><a href="###Overview">Overview</a></li>
         <li><a href="###Technical Requirements">Technical Requirements</a></li>
