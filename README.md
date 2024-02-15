@@ -131,8 +131,7 @@ The major frameworks and libraries used to bootstrap the project are:
 * [![React][React.js]][React-url]
 * [![Express][Express.js]][Express-url]
 * [![Mongoose][Mongoose.js]][Mongoose-url]
-* [![CORS][CORS.js]][CORS-url]
-* [![Dotenv][Dotenv.js]][Dotenv-url]
+
 
 ### Conclusion
 The Cherry Blossom Digital Photo Repository is a testament to the power of the MERN stack and the importance of following best practices in software development. It demonstrates the ability to create a complex, user-friendly, and valuable application that meets the technical requirements and provides a personal touch to the end-user experience. The project is a reflection of the knowledge and skills acquired throughout the course and serves as a solid foundation for future development projects.
