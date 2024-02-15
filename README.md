@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="PA - 307.2.1 Practice Assignment Wireframe.jpg" alt="Wireframe for the repository" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
