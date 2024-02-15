@@ -70,14 +70,15 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#cherry-blossom-digital-photo-repository---project-instructions">Cherry Blossom Digital Photo Repository - Project Instructions</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#getting-started--installation">Getting Started / Installation</a></li>
       </ul>
     </li>
+    <li><a href="#clone-the-repository">Clone the Repository</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="##roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
