@@ -59,14 +59,14 @@
     <li>
       <a href="#about-the-project--cherry-blossom-digital-photo-repository">About The Project:  Cherry Blossom Digital Photo Repository</a>
       <ul>
-         <li><a href="###Overview">Overview</a></li>
-        <li><a href="###Technical Requirements">Technical Requirements</a></li>
-        <li><a href="###Complexity-and-Creativity">Complexity and Creativity</a></li>
-        <li><a href="###Value-to-the-End-User">Value to the End-User</a></li>
-        <li><a href="###Code-Style-and-Best-Practices">Code Style and Best Practices</a></li>
-        <li><a href="###Deployment">Deployment</a></li>
-        <li><a href="###built-with">Built With</a></li>
-        <li><a href="###Conclusion">Conclusion</a></li>
+         <li><a href="#overview">Overview</a></li>
+        <li><a href="#technical-requirements">Technical Requirements</a></li>
+        <li><a href="#complexity-and-creativity">Complexity and Creativity</a></li>
+        <li><a href="#value-to-the-end-user">Value to the End-User</a></li>
+        <li><a href="#code-style-and-best-practices">Code Style and Best Practices</a></li>
+        <li><a href="#deployment">Deployment</a></li>
+        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#conclusion">Conclusion</a></li>
       </ul>
     </li>
     <li>
